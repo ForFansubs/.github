@@ -1,0 +1,3 @@
+Hem işlerimden, hem de zamanında projeyi çok da geliştirilebilir şekilde yazmadığımdan (ilk projelerin günahı olmaz) alıp rafa kaldırdım kendisini. Fansub işleriyle de uzun zamandır ilgilenmiyorum zaten.
+
+Size önerim bu projeyi kullanmaya çalışmak yerine eğer yazılıma ilginiz varsa Next olur Vue olur Svelte olur front-end için, yanına da back-end için NodeJS olur ya da Java veya .NET (ilerde iş bulmak ve kurumsalda çalışmak istiyorum diyorsanız) öğrenip kendi projenizi kendiniz yazmanızdır. Biraz zaman alıyor, ama ben bu projeyle şu anda çalıştığım şirkete girdim diyebilirim. Bir fansub sitesi hazırlamak, sandığınız kadar zor değil.
